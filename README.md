@@ -19,8 +19,8 @@ Emotion-Bhind-Text is a project designed to analyze emotions in textual data, ut
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Lucky-Fulara/Emotion-Bhind-Text.git
-   cd Emotion-Bhind-Text
+   git clone [https://github.com/Lucky-Fulara/Emotion-Bhind-Text.git
+   cd Emotion-Bhind-Text](https://github.com/PirateZorro/Emotion-Behind-Text.git)
    ```
 
 2. Install the required libraries:
